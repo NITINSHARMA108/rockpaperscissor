@@ -66,7 +66,7 @@ function startGame(){
             for(var i=0;i<5;i++)
             {
                 //setTimeout(function(){
-                    let uS=window.prompt('make your choice');
+                    let uS=window.prompt('make your choice : rock,paper,scissor');
             
                     let userSelection=uS.toLowerCase();
                     
